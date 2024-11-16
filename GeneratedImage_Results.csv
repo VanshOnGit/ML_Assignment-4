@@ -1,0 +1,25 @@
+Model,Image,Predicted Class,Confidence
+VGG_Block_1,A_Easy,Alligator,0.5000237
+VGG_Block_1,A_Hard,Alligator,0.5000663
+VGG_Block_1,B_Easy,Shark,0.50011766
+VGG_Block_1,B_Hard,Alligator,0.5000792
+VGG_Block_3,A_Easy,Alligator,0.50004345
+VGG_Block_3,A_Hard,Alligator,0.5000202
+VGG_Block_3,B_Easy,Shark,0.5000069
+VGG_Block_3,B_Hard,Alligator,0.50001335
+VGG_Block_3_Data_Augmentation,A_Easy,Alligator,0.5000278
+VGG_Block_3_Data_Augmentation,A_Hard,Shark,0.500002
+VGG_Block_3_Data_Augmentation,B_Easy,Shark,0.5000221
+VGG_Block_3_Data_Augmentation,B_Hard,Shark,0.50000703
+Transfer_Learning_All_Layers,A_Easy,Alligator,0.73893404
+Transfer_Learning_All_Layers,A_Hard,Shark,0.6921347
+Transfer_Learning_All_Layers,B_Easy,Alligator,0.5349344
+Transfer_Learning_All_Layers,B_Hard,Shark,0.72901094
+Transfer_Learning_MLP,A_Easy,Alligator,0.580251
+Transfer_Learning_MLP,A_Hard,Shark,0.5864138
+Transfer_Learning_MLP,B_Easy,Shark,0.6205395
+Transfer_Learning_MLP,B_Hard,Alligator,0.5557967
+MLP_Model,A_Easy,Alligator,0.5671914
+MLP_Model,A_Hard,Shark,0.5788661
+MLP_Model,B_Easy,Shark,0.6761654
+MLP_Model,B_Hard,Shark,0.5388214

@@ -1,0 +1,7 @@
+Model,Training Time (s),Training Loss,Training Accuracy,Testing Accuracy,Parameters
+VGG_Block_1,18.09,0.9956,0.69,0.62,"5,14,19,138"
+VGG_Block_3,33.09,0.5314,0.76,0.82,"1,39,90,658"
+VGG_Block_3_data_augmentation,20.71,0.5117,0.7,0.7,"1,39,90,658"
+transfer_learning_all_layer,27.98,22.4215,0.41,0.57,"1,63,20,514"
+model_transfer_learning_mlp,7.83,2.0497,0.9525,1,"1,95,32,168"
+model_mlp,118.88,25.8416,0.65,0.625,"23,17,05,992"
